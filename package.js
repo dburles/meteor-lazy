@@ -5,6 +5,6 @@ Package.describe({
 Package.on_use(function(api) {
   api.add_files('lazy.js', ['client', 'server']);
   if (typeof api.export !== 'undefined') {
-    api.export('lazy');
+    api.export('l');
   }
 });
