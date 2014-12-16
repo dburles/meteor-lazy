@@ -1,6 +1,6 @@
 # meteor-lazy
 
-A little development tool that let's you do this:
+A little development tool that lets you do this:
 
 ![Example 1](http://www.davidburles.com/lazy/lazy1.png)
 
