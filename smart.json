@@ -1,8 +1,0 @@
-{
-  "name": "lazy",
-  "description": "A handy little development tool",
-  "homepage": "https://github.com/dburles/meteor-lazy",
-  "author": "David Burles (http://twitter.com/dburles)",
-  "version": "0.1.0",
-  "git": "https://github.com/dburles/meteor-lazy.git"
-}
